@@ -19,4 +19,5 @@ class Light
             System.out.println(distance + " miles."); 
         } 
 }
+// output:  In 1000 days light will travel about 16070400000 miles.
 
