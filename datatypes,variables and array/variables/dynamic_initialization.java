@@ -1,4 +1,5 @@
 // Demonstrate dynamic initialization. 
+
 class DynInit 
 { 
     public static void main(String[] args) 
