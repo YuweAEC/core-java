@@ -22,3 +22,12 @@ class Conversion
     } 
 }
 
+// output:  Conversion of int to byte.
+//          i and b 257 1
+
+//          Conversion of double to int.
+//          d and i 323.142 323
+
+//          Conversion of double to byte.
+//          d and b 323.142 67
+
