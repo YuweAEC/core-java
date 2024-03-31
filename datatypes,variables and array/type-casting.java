@@ -31,3 +31,5 @@ class Conversion
 //          Conversion of double to byte.
 //          d and b 323.142 67
 
+// In this program, the integer value 257 is assigned to i. When i is cast to a byte, the value is reduced modulo 256, which results in the value 1. When the double value 323.142 is cast to an int, the fractional part is lost, resulting in the value 323. When the double value 323.142 is cast to a byte, the fractional part is lost and the value is reduced modulo 256, resulting in the value 67.
+
