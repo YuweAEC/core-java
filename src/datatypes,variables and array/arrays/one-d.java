@@ -1,4 +1,5 @@
 // Demonstrate a one-dimensional array. 
+
 class Array
 { 
     public static void main(String[] args) 
@@ -20,4 +21,6 @@ class Array
         System.out.println("April has " + month_days[3] + " days."); 
     } 
 }
+
+// output: April has 30 days.
 
