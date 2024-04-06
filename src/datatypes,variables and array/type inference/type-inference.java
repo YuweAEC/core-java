@@ -1,4 +1,5 @@
 // A simple demonstration of local variable type inference. 
+
 class VarDemo 
 { 
     public static void main(String[] args) 
