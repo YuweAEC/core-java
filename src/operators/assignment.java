@@ -17,3 +17,7 @@ class OpEquals
     } 
 }
 
+// output: a = 6
+//         b = 8
+//         c = 3
+
