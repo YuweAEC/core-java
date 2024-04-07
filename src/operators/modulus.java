@@ -11,3 +11,5 @@ class Modulus
     } 
 }
 
+// output:  x mod 10 = 2
+//          y mod 10 = 2.25
