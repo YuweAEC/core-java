@@ -29,3 +29,4 @@ class VarDemo
 //         Value of var: 1
 //         Value of k: -1
 
+// In this program, the type of the variable avg is inferred to be double. This is because the initializer is of type double. The type of the variable var is explicitly declared to be int. The variable k is declared using type inference. In this case, the type of k is inferred to be int because the initializer is of type int.
