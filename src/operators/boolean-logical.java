@@ -20,3 +20,11 @@ class BoolLogic
     } 
 }
 
+// output: a = true
+//         b = false
+//         a|b = true
+//         a&b = false
+//         a^b = true
+//         !a&b|a&!b = true
+//         !a = false
+
