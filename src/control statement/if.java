@@ -7,6 +7,7 @@ else
     waitForMoreData();
 
 
+
 int bytesAvailable; 
     // ... 
 if (bytesAvailable > 0) 
@@ -16,6 +17,8 @@ if (bytesAvailable > 0)
 } 
 else 
     waitForMoreData()
+
+
 
 int bytesAvailable; 
 // ... 
@@ -28,9 +31,12 @@ else
     waitForMoreData(); 
     bytesAvailable = n;
 
+
+    
 int bytesAvailable; 
 // ... 
-if (bytesAvailable > 0) { 
+if (bytesAvailable > 0) 
+{ 
     ProcessData(); 
     bytesAvailable -= n; 
 } 
@@ -39,3 +45,4 @@ else
     waitForMoreData(); 
     bytesAvailable = n; 
 }
+
