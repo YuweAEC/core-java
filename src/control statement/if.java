@@ -15,4 +15,15 @@ if (bytesAvailable > 0)
     bytesAvailable -= n; 
 } 
 else 
-    waitForMoreData();
+    waitForMoreData()
+
+int bytesAvailable; 
+// ... 
+if (bytesAvailable > 0) 
+{ 
+    ProcessData(); 
+    bytesAvailable -= n; 
+} 
+else 
+    waitForMoreData(); 
+    bytesAvailable = n;
