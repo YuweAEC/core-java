@@ -1,4 +1,5 @@
 // Demonstrate if-else-if statements. 
+
 class IfElse 
 { 
     public static void main(String[] args) 
@@ -20,6 +21,7 @@ class IfElse
         
         else 
         season = "Bogus Month"; 
+        
         System.out.println("April is in the " + season + "."); 
     } 
 }   
