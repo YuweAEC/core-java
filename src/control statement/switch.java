@@ -29,3 +29,10 @@ class SampleSwitch
     } 
 }
 
+// output: i is zero.
+//         i is one.
+//         i is two.
+//         i is three.
+//         i is greater than 3.
+//         i is greater than 3.
+
