@@ -15,3 +15,4 @@ class NoBody
         System.out.println("Midpoint is " + i); 
     } 
 }
+
