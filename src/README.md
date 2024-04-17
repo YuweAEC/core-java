@@ -7,4 +7,9 @@ Welcome to the Java Core Concepts repository! This repository contains code exam
 ## title 
 ## Introduction 
 ## Authors
+
+- Yuvraj Singh
+
 ## Acknowledgements
+
+- Gaurav Kumar Singh
