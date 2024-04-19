@@ -15,3 +15,4 @@ class CharDemo
 // output:  ch1 and ch2: X Y
 
 // In this program, two char variables are declared. The first, ch1, is assigned the value 88, which is the ASCII code for the character X. The second, ch2, is assigned the character Y. When the program is run, the output is ch1 and ch2: X Y.
+    
