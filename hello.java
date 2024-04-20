@@ -6,6 +6,6 @@ class A
 
 class B
 {
- 	public static void main(String[], s);
+	public static void main(String[], s);
 	System.out.println("creating class b");
 }
