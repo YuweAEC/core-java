@@ -1,5 +1,3 @@
-package core_java.methods_classes;
-
 // Demonstrate method overloading. 
 
 class OverloadDemo 
