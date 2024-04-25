@@ -16,7 +16,7 @@ class Test
     } 
 }
 
-class RetOb 
+class ReturnObject 
 { 
     public static void main(String[] args) 
     { 
