@@ -18,7 +18,7 @@ class Test
     } 
 } 
 
-class PassObjRef 
+class PassObjectReference 
 { 
     public static void main(String[] args) 
     { 
