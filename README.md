@@ -38,3 +38,8 @@ This repository is dedicated to providing comprehensive examples and resources f
 - [Example1.java](/topics/control_statements/Example1.java)
 - [Example2.java](/topics/control_statements/Example2.java)
 
+
+### Data Types, Variables, and Arrays
+
+- [Example1.java](/topics/data_types_variables_and_arrays/Example1.java)
+- [Example2.java](/topics/data_types_variables_and_arrays/Example2.java)
