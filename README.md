@@ -16,3 +16,11 @@ Welcome to the Java Core Concepts repository! This repository contains code exam
 
 ## Introduction 
 This repository is dedicated to providing comprehensive examples and resources for learning core Java programming concepts. Whether you're a beginner or an experienced developer looking to brush up on your skills, you'll find valuable content here to deepen your understanding of Java.
+
+## Authors
+
+- Yuvraj Singh
+
+## Acknowledgements
+
+- Gaurav Kumar Singh
