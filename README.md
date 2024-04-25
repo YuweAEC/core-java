@@ -43,3 +43,9 @@ This repository is dedicated to providing comprehensive examples and resources f
 
 - [Example1.java](/topics/data_types_variables_and_arrays/Example1.java)
 - [Example2.java](/topics/data_types_variables_and_arrays/Example2.java)
+
+
+### Methods and Classes
+
+- [Example1.java](/topics/methods_and_classes/Example1.java)
+- [Example2.java](/topics/methods_and_classes/Example2.java)
