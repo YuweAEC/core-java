@@ -15,6 +15,7 @@ Welcome to the Java Core Concepts repository! This repository contains code exam
     - [Operators](#operators)
 
 ## Introduction 
+
 This repository is dedicated to providing comprehensive examples and resources for learning core Java programming concepts. Whether you're a beginner or an experienced developer looking to brush up on your skills, you'll find valuable content here to deepen your understanding of Java.
 
 ## Authors
@@ -47,7 +48,6 @@ This repository is dedicated to providing comprehensive examples and resources f
 
 - [Example1.java](/topics/methods_and_classes/Example1.java)
 - [Example2.java](/topics/methods_and_classes/Example2.java)
-
 
 ### Operators
 
