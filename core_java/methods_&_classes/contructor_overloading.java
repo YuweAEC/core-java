@@ -22,3 +22,21 @@ class Room
 		l=r.l;b=r.b;h=r.h;
 	}
 }
+
+class ConstructorOverload
+{
+	public static void main(String s[])
+	{
+		Room r1=new Room(5,8,10);
+		Room r2=new Room(5);
+		Room r3=new Room(r1);
+		Room r4=r2;
+		r3.l=6;
+		r4.l=10;
+		System.out.print("Volume of r1: ");r1.vol();//400
+		System.out.print("Volume of r2: ");r2.vol();//125
+		System.out.print("Volume of r3: ");r3.vol();//480
+		System.out.print("Volume of r4: ");r4.vol();//125   1000   250
+	}
+}
+
