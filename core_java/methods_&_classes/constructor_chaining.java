@@ -33,7 +33,7 @@ class ConstructorChaining1
 {
 	public static void main(String s[])
 	{
-		Student s1=new Student("Kunal","Burnpur", 21, 74);
+		new Student("Kunal","Burnpur", 21, 74);
 	}
 }
 //A Constructor of a class can call another Constructor of the same class using "this" keyword
