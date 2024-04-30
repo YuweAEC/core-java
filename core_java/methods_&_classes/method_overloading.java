@@ -29,3 +29,19 @@ class Addition
 	{
 	}
 }
+
+class MethodOverloading
+{
+	public static void main(String s[])
+	{
+		Addition a1=new Addition();
+		a1.sum(5.8, 8.1, 10.6); 
+		System.out.println();
+		a1.sum(12.5, 18);
+		System.out.println();
+		a1.sum(16, 39);
+		System.out.println();
+		a1.sum(10, 2.5);
+	}
+}
+
