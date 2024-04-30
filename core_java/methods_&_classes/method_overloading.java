@@ -45,3 +45,30 @@ class MethodOverloading
 	}
 }
 
+class OverloadMain
+{
+	public static void main(String s)
+	{
+		System.out.println("main() with String parameter");
+	}
+	public static void main(int s[])
+	{
+		System.out.println("main() with int type array");
+	}
+	public static void main(String s, int p)
+	{
+		System.out.println("main() with String and int type parameter");
+	}
+	/*public static void main(String s[])
+	{
+		System.out.println("STARTING POINT of EXECUTION");
+		main("Asansol",713305);
+		main(23.59);
+		main("India");
+	}*/
+	public static void main(double b)
+	{
+		System.out.println("main() with double type parameter");
+	}
+}
+
