@@ -1,3 +1,5 @@
+package core_java.inheritance;
+
 // Create a superclass. 
 class A 
 { 
