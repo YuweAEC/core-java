@@ -36,10 +36,10 @@ class Box {
     double volume() { 
         return width * height * depth; 
     } 
-   } 
+} 
    // Here, Box is extended to include weight. 
-   class BoxWeight extends Box {
-    public String weight;
+class BoxWeight extends Box {
+    public double weight;
 
     BoxWeight(double w, double h, double d, double m) { 
         width = w; 
@@ -47,8 +47,9 @@ class Box {
         depth = d; 
         weight = m; 
         } 
-       } 
-       class DemoBoxWeight { 
+    } 
+
+    class DemoBoxWeight { 
         public static void main(String[] args) { 
             BoxWeight mybox1 = new BoxWeight(10, 20, 15, 34.3); 
             BoxWeight mybox2 = new BoxWeight(2, 3, 4, 0.076); 
@@ -62,3 +63,4 @@ class Box {
             System.out.println("Weight of mybox2 is " + mybox2.weight); 
         } 
 }
+
