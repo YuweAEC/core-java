@@ -6,6 +6,7 @@ This program contains an error and will not
 compile. 
 */ 
 // Create a superclass. 
+
 class A { 
     int i; // default access 
     private int j; // private to A 
@@ -13,7 +14,7 @@ class A {
         i = x; 
         j = y; 
     } 
-} 
+}
 
 // A's j is not accessible here. 
 class B extends A { 
