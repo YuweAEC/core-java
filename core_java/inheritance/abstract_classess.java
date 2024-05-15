@@ -1,3 +1,5 @@
+package core_java.inheritance;
+
 // A Simple demonstration of abstract. 
 abstract class A { 
     abstract void callme(); 
