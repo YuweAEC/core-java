@@ -1,3 +1,5 @@
+package core_java.inheritance;
+
 // Dynamic Method Dispatch 
 class A { 
     void callme() { 
