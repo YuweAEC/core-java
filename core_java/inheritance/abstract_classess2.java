@@ -1,3 +1,5 @@
+package core_java.inheritance;
+
 // Using abstract methods and classes. 
 abstract class Figure { 
     double dim1; 
