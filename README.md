@@ -4,12 +4,12 @@ Welcome to the **Java Core Concepts** repository! This repository contains code 
 
 ## Concepts Covered
 
-- Class and Objects
-- Control Statements
-- Data Types, Variables, and Arrays
-- Inheritance
-- Methods and Classes
-- Operators
+- [Class and Objects](core_java/class%20and%20objects/example_class.java)
+- [Control Statements](core_java/control%20statement/control_statement_examples.java)
+- [Data Types, Variables, and Arrays](core_java/datatypes,variables%20and%20array/datatypes_variables_array_examples.java)
+- [Inheritance](core_java/inheritance/inheritance_examples.java)
+- [Methods and Classes](core_java/methods_&_classes/method_and_class_examples.java)
+- [Operators](core_java/operators/operator_examples.java)
 
 ## Repository Structure
 
