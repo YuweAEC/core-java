@@ -1,5 +1,6 @@
 class Main
 {
+    @SuppressWarnings("static-access")
     public static void main(String[] args)
     {
         Student a1 = new Student("Yuvraj" , "Singh");
